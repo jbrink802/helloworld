@@ -1,2 +1,2 @@
 # helloworld
-not much
+This is my second go. I want to figure out how to 'initialize' the project or how to run it...
